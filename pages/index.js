@@ -19,6 +19,12 @@ export default function Home() {
    <Link href="/blog" >
    <a>Blog Page</a>
    </Link>
+   <Link href="/users" >
+     <a>User Page</a>
+   </Link>
+   <Link href="/posts" >
+   <a>Post</a>
+   </Link>
    <button onClick={handleClick} > Place Order</button>
    </>
   )
