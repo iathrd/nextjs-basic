@@ -1,4 +1,93 @@
 {
+
+    "events":[
+        {
+            "id":1,
+            "title":"Event 1",
+            "Description":"Description 1",
+            "category":"sports",
+            "date":"April 25"
+        },
+        {
+            "id":2,
+            "title":"Event 2",
+            "Description":"Description 2",
+            "category":"technology",
+            "date":"Mei 25"
+        },
+        {
+            "id":3,
+            "title":"Event 3",
+            "Description":"Description 3",
+            "category":"food",
+           "date":"June 25"
+        },
+        {
+            "id":4,
+            "title":"Event 4",
+            "Description":"Description 4",
+            "category":"sports",
+           "date":"October 25"
+        },
+        {
+            "id":5,
+            "title":"Event 5",
+            "Description":"Description 5",
+            "category":"sports",
+            "date":"April 25"
+        },
+        {
+            "id":6,
+            "title":"Event 6",
+            "Description":"Description 6",
+            "category":"technology",
+            "date":"Mei 25"
+        },
+        {
+            "id":7,
+            "title":"Event 7",
+            "Description":"Description 7",
+            "category":"food",
+           "date":"June 25"
+        },
+        {
+            "id":8,
+            "title":"Event 8",
+            "Description":"Description 8",
+            "category":"sports",
+           "date":"October 25"
+        },
+        {
+            "id":9,
+            "title":"Event 9",
+            "Description":"Description 9",
+            "category":"sports",
+            "date":"April 25"
+        },
+        {
+            "id":10,
+            "title":"Event 10",
+            "Description":"Description 10",
+            "category":"technology",
+            "date":"Mei 25"
+        },
+        {
+            "id":11,
+            "title":"Event 11",
+            "Description":"Description 11",
+            "category":"food",
+           "date":"June 25"
+        },
+        {
+            "id":12,
+            "title":"Event 12",
+            "Description":"Description 12",
+            "category":"sports",
+           "date":"October 25"
+        }
+        
+    ],
+
     "dashboard":{
         "posts":5,
         "likes":1000,
